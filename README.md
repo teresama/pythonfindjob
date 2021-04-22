@@ -2,10 +2,14 @@
 
 One day you see yourself with a Master degree in your hand but no specific plan on what is your next step. 
 
-*End goal*
+*End goal:*
+
+
 What if there is a Software tool that gives you ideas and suggestions of companies where you could work for? 
 
 *But repo under construction, as of now:*
+
+
 That is the motivation guiding me to use LinkedIn APIs with Python to find companies to get inspired and do a more automatic job search.
 
 *** Disclaimer ***
